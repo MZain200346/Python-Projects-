@@ -9,7 +9,6 @@ Just some simple tools and experiments I made to test my skills and learn new th
 ### Projects
 
 - **Python Calculator** - A simple Python calculator that can add, subtract, multiply, and divide numbers. Clean and easy to use.
-- **Weather Checker** - Gets current weather for any city
 - **Password Generator** - Creates strong random passwords
 - **Web Scraper** - Pulls basic info from websites
 
