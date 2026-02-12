@@ -1,4 +1,4 @@
-# My Python Projects
+# My Personal Projects
 
 A collection of small Python scripts I built for fun while learning to code.
 
