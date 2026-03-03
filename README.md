@@ -1,6 +1,6 @@
 # My Personal Projects
 
-A collection of small Python scripts I built for fun while learning to code.
+A collection of small scripts I built for fun while learning to code.
 
 ## What's Here
 
@@ -11,10 +11,11 @@ Just some simple tools and experiments I made to test my skills and learn new th
 - **Python Calculator** - A simple Python calculator that can add, subtract, multiply, and divide numbers. Clean and easy to use.
 - **Password Generator** - Creates strong random passwords
 - **Web Scraper** - Pulls basic info from websites
+- **Pet Clinic Manager** - Pet databse made with java 
 
 ## Why I Made These
 
-Mostly to practice Python and see what I could build on my own. Each project helped me learn something new.
+Mostly to practice coding and see what I could build on my own. Each project helped me learn something new.
 
 ## Getting Started
 
